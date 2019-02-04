@@ -1,0 +1,15 @@
+.task {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 300px;
+    padding: 20px;
+}
+
+.image {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    height: auto;
+}
